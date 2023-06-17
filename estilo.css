@@ -159,4 +159,9 @@ header{
     color: white;
 }
 
-
+a{
+    font-size: 25px;
+    padding: 20px 540px;
+    text-align: justify;
+    color: black;
+}
