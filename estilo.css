@@ -27,8 +27,6 @@ h1{
     color: white;
 }
 
-
-
 h3{
     font-size: 28px;
     padding: 20px 0px;
@@ -142,7 +140,7 @@ header{
     position: sticky;
     top: 0;
     font-size: 45px;
-    padding: 20px 20px;
+    padding: 40px 20px;
     background-color: darkslateblue;
     border-radius: 0px;
     margin: 0px 0px;
